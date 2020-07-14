@@ -1,4 +1,4 @@
-# Word_Count
+# Word Count
 
 WordCount is a program that counts the number of lines, words, and characters in a phrase.
 
